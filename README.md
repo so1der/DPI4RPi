@@ -38,6 +38,8 @@ Example of use (the board looks a little different in the photos because this is
 ![1](https://raw.githubusercontent.com/so1der/DPI4RPi/refs/heads/main/images/display1.jpg)
 ![2](https://raw.githubusercontent.com/so1der/DPI4RPi/refs/heads/main/images/display2.jpg)
 
+---
+
 # DPI4RPi Українська:
 ![DPI4RPi](https://raw.githubusercontent.com/so1der/DPI4RPi/refs/heads/main/images/dpi4rpi.png)
 
